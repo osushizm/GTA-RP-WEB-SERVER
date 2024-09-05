@@ -8,3 +8,4 @@ GTA-RP-WEB-SERVER
 | python3-venv  | -  |
 | nodejs  | v18.19.1  |
 | git  | git version 2.43.0  |
+| psql  | psql (PostgreSQL) 16.4  |
